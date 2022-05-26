@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "tidal:block/iron_panel" }
+  }
+}
