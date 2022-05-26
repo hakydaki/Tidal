@@ -2,6 +2,7 @@ package com.hakydaki.tidal;
 
 import com.hakydaki.tidal.block.ModBlocks;
 import com.hakydaki.tidal.item.ModItems;
+import com.hakydaki.tidal.sound.ModSounds;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.Blocks;
 import net.minecraftforge.common.MinecraftForge;
@@ -34,6 +35,7 @@ public class Tidal {
 
         ModItems.register(eventBus);
         ModBlocks.register(eventBus);
+        ModSounds.register(eventBus);
 
         eventBus.addListener(this::setup);
 

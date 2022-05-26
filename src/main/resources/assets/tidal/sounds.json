@@ -1,0 +1,10 @@
+{
+  "beautiful_ruin": {
+    "sounds": [
+      {
+        "name": "tidal:beautiful_ruin",
+        "stream": true
+      }
+    ]
+  }
+}

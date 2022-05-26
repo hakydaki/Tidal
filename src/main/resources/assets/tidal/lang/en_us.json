@@ -3,5 +3,8 @@
 
   "block.tidal.iron_panel": "Iron Panel",
 
+  "item.tidal.disc_despair": "Beautiful Ruin",
+  "item.tidal.disc_despair.desc": "Masafumi Takada - DR2",
+
   "itemGroup.tidaltab": "Tidal"
 }
